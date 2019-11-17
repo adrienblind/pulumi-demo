@@ -1,0 +1,4 @@
+name: pulumi-kub-demo
+runtime: nodejs
+description: This demo showcases provisioning of a kub cluster, a on digital ocean
+  and an aws s3 bucket

@@ -51,3 +51,4 @@ for(i = 1;i<=clustercount;i++) {
 		content: cluster.kubeConfigs[0].rawConfig
     	});
 }
+

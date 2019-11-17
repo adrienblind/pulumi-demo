@@ -1,0 +1,5 @@
+encryptionsalt: v1:oDXOmf423ns=:v1:M2/sFLXePGTpJuGK:TJZ3CIOzdMOg1A2Jr7W1wrStuHRT0A==
+config:
+  aws:region: us-west-2
+  digitalocean:token:
+    secure: v1:CwuRnHeJ6fQmWi+M:8hFdHKnoc0moF+VAyF4ZeWcMOc3hITqvNljxvchoEUfcSr+G0x38HnyVsNlpZF32ZbhfxIancoSUqmTT2zN4nqaMeicVJ3+stXsXMNuOupY=
